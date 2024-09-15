@@ -1,6 +1,6 @@
-# .github
+# Software for repair shops
 
-Repero.me is a CRM software for repair shops, where you can create customized invoices and send your customers emails and text messages (SMS).
+Repero.me is a CRM software for repair shops, where you can create customized invoices and send your customers emails, text messages (SMS) and more.
 
 Example features:
 - Print invoices, send them via email, send text messages.
